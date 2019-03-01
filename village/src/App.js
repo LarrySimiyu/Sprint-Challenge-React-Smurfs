@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 import SmurfForm from './components/SmurfForm';
 import Smurfs from './components/Smurfs';
-
+// minor change for initial commit
 class App extends Component {
   constructor(props) {
     super(props);
