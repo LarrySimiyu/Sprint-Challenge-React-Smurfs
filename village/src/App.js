@@ -15,6 +15,7 @@ class App extends Component {
   }
 
   componentDidMount() {
+    //main computer changes
 
     axios
       .get("http://localhost:3333/smurfs")
